@@ -78,5 +78,5 @@ public class DiaryRealmAdapter extends RealmRecyclerViewAdapter<Diary, DiaryReal
         }
     }
 
-
+//
 }
